@@ -1,2 +1,7 @@
 Test file
+<<<<<<< HEAD
 Add data offline. 
+=======
+Test lines in github 
+tralalalal
+>>>>>>> 1dd1ebb51ff6474d0df51d3ff3abf773bf2e8d55
