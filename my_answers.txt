@@ -7,5 +7,9 @@ tralalalal
 >>>>>>> 1dd1ebb51ff6474d0df51d3ff3abf773bf2e8d55
 
 test test test
+<<<<<<< HEAD
 
 miep miep miep
+=======
+Test lines in github for the second time. 
+>>>>>>> da4ffe1fa73c97569c9a71ba7c2ad01fc152ea36
